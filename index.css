@@ -4,7 +4,7 @@
   background: #D7EEFF;
   width: 100%;
   max-width: 1280px;
-  min-widch: 0;
+  min-width: 0;
   margin: 0 auto;
   padding: 0 16px;
 }
@@ -15,7 +15,7 @@
   border: solid 3px skyblue;
 }
 img {
-  max-widch: 100%;
+  max-width: 100%;
   height: auto;
 }
 p, dd {
