@@ -13,7 +13,9 @@
   width: 350px;
   border: solid 3px skyblue;
 }
-
+img {
+  max-widch: 100%;
+}
 p, dd {
   line-height: 1.7;
 }
