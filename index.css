@@ -4,6 +4,7 @@
   background: #D7EEFF;
   width: 100%;
   max-width: 1280px;
+  min-widch: 0;
   margin: 0 auto;
   padding: 0 16px;
 }
