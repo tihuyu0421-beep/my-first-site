@@ -15,6 +15,7 @@
 }
 img {
   max-widch: 100%;
+  height: auto;
 }
 p, dd {
   line-height: 1.7;
